@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Alex** (*He/Him*)
+- 👋 **Hi, I’m Alex** (*He/Him*)
 - 👀 I’m interested in working on **web and mobile applications** with a focus on front-end development (*while still having expereience with back-end development and having previous full-stack roles*) 
 - 🌱 I’m currently learning and **refining my skills in JavaScript and React** while touching on backend frameworks such as Node.js
 - 📫 Feel free to contact/find me via the following:<br />
