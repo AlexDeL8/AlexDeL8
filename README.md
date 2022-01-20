@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and **refining my skills in JavaScript and React** while touching on backend frameworks such as Node.js
 - 📫 Feel free to contact/find me via the following:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;- **Email** 📧: alexnaj88@gmail.com <br />
-&nbsp;&nbsp;&nbsp;&nbsp;- **LinkedIn** 👥: https://www.linkedin.com/in/alexander-de-luca-469603162/ <br />
+&nbsp;&nbsp;&nbsp;&nbsp;- **LinkedIn** 👥: https://www.linkedin.com/in/alex-de-luca/ <br />
 &nbsp;&nbsp;&nbsp;&nbsp;- **CodeSandbox** 🗃️ - https://codesandbox.io/u/alexdel <br />
 &nbsp;&nbsp;&nbsp;&nbsp;- **CodePen** ✒️ - https://codepen.io/AlexDeL <br />
 
