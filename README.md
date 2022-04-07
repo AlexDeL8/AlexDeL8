@@ -4,6 +4,7 @@
 - 📫 Feel free to contact/find me via the following:<br />
     - **Email** 📧: alexnaj88@gmail.com <br />
     - **LinkedIn** 👥: https://www.linkedin.com/in/alex-de-luca/ <br />
+    - **Medium** 📝: https://medium.com/@alexdel <br />
     - **CodeSandbox** 🗃️ - https://codesandbox.io/u/alexdel <br />
     - **CodePen** ✒️ - https://codepen.io/AlexDeL <br />
 
