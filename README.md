@@ -1,6 +1,6 @@
-- 👋 **Hi, I’m Alex** (*He/Him*)
-- 👀 I’m interested in **web and mobile application development** with a focus on front-end development (*while still having expereience with back-end development and having previous full-stack roles*) 
-- 🌱 I’m currently learning and **refining my skills in JavaScript and React** while touching on backend frameworks such as Node.js
+- 👋 **Hi, I’m Alex** (*He/Him/His*)
+- 👀 I’m interested in **web and mobile application development** with a focus on front-end (*while still having back-end experience along with years of full-stack professional experience*) 
+- 🌱 I’m currently **using and refining my skills in JavaScript, React, and Node.js** to keep myself sharp, up to date, and to actively work on side projects
 - 📫 Feel free to contact/find me via the following:<br />
     - **Email** 📧: alexnaj88@gmail.com <br />
     - **LinkedIn** 👥: https://www.linkedin.com/in/alex-de-luca/ <br />
