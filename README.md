@@ -13,6 +13,7 @@
 - Responsive Design | Accessibility | UI/UX
 
 📈 Seeking more contracts and partnerships to leverage my skills in creating innovative web solutions
+
 📚 Dedicated to continuing education and certifications, ensuring I stay at the forefront of industry trends and technologies
 
 🌐 Portfolio: https://alexdel.vercel.app/
