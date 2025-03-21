@@ -1,5 +1,7 @@
 👋 **Alex De Luca | Front-End Developer | Full-Stack Experience**
+
 🚀 Passionate Web and Mobile Application Developer with expertise in JavaScript, React, and Node.js
+
 💼 Professional Experience:
 - Full-Stack Development
 - Front-End Specialization
