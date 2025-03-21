@@ -9,15 +9,13 @@
 
 🛠️ Skills:
 - JavaScript | React | Node.js
-- HTML5 | CSS3 | RESTful APIs
-- Responsive Design | UI/UX
+- RESTful APIs | Data Management & Modeling
+- Responsive Design | Accessibility | UI/UX
 
 📈 Seeking more contracts and partnerships to leverage my skills in creating innovative web solutions
-
 📚 Dedicated to continuing education and certifications, ensuring I stay at the forefront of industry trends and technologies
 
 🌐 Portfolio: https://alexdel.vercel.app/
-
 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/alex-de-luca/
 - Email: alexnaj88@gmail.com
