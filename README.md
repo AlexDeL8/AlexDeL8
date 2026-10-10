@@ -1,4 +1,4 @@
-👋 **Alex De Luca | Front-End Developer | Full-Stack Experience**  
+# **Alex De Luca | Full-Stack Engineer**  
 🚀 Passionate Web and Mobile Application Developer with expertise in JavaScript, React, and Node.js  
 
 💼 Professional Experience:  
@@ -19,8 +19,6 @@
 - LinkedIn: https://www.linkedin.com/in/alex-de-luca/
 - Email: alexnaj88@gmail.com
 - Medium: https://medium.com/@alexdel
-- CodeSandbox: https://codesandbox.io/u/alexdel
-- CodePen: https://codepen.io/AlexDeL
 
 <!---
 AlexDeL8/AlexDeL8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
